@@ -21,7 +21,7 @@
       }
     },
     "signedPreKey": {
-      "keyPair": {,,z
+      "keyPair": {
         "private": {
           "type": "Buffer",
           "data": "2Nfbj5sduO8YJqceCOCmdYyg7TVlSgCgaQ8KUCgLq0s="
