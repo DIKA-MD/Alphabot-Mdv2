@@ -587,7 +587,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Cylen-MD :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1450,8 +1450,9 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
+├ My Parent
 ├ Fatih A.
+├ DikaOFC
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
@@ -2120,6 +2121,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
+├ DikaOFC
 ├ Fatih A.
 ├ Ferdi
 ├ DikaArdnt
