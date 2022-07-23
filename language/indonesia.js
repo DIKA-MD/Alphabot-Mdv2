@@ -1505,6 +1505,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My God
 ├ My Parents
 ├ Fatih A.
+├ DikaOFC
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
