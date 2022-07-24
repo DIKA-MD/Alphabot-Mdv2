@@ -19,7 +19,7 @@ global.autobio = true
 //language
 //Available in indonesia & english
 //You can request others language 
-global.language = english  //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
