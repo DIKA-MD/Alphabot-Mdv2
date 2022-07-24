@@ -506,7 +506,7 @@ q,
 mentionedJid: m.mentionedJid,
 creator: m.sender,
 at: + new Date,
-locked: false,
+locked: true,
 }
 reply(`Done!`)
 }
