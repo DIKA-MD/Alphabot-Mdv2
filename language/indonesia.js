@@ -619,7 +619,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Cylen-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1505,6 +1505,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My God
 ├ My Parents
 ├ Fatih A.
+├ DikaOfc
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
@@ -1528,7 +1529,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan dengan cara Chat WhatsApp owner untuk meminta script bot ini.
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -2172,6 +2173,7 @@ exports.tqto = () =>{
 ├ My God
 ├ My Parents
 ├ Fatih A.
+├ DikaOfc
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
